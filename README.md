@@ -39,7 +39,7 @@ Documento que descreve:
 
 - Visão geral das informações disponibilizadas ao time de Atendimento ao Cliente
 
-### 📂 Caminho: https://github.com/wellintonheitor/Business-Case---GameStreamers/blob/main/Relat%C3%B3rio%20de%20Consultoria%20em%20Product%20Operations.pdf
+### 📂 Caminho: [/Relatório de Consultoria em Product Operations.pdf](https://github.com/wellintonheitor/Business-Case---GameStreamers/blob/main/Relat%C3%B3rio%20de%20Consultoria%20em%20Product%20Operations.pdf)
 
 ## 📘 2. Documentação Técnica do Dashboard
 

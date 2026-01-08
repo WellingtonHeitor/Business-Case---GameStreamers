@@ -71,7 +71,7 @@ O dashboard foi desenvolvido no Power BI e está dividido em quatro abas:
 
 - Impacto Financeiro
 
-### 🔗 Link de acesso ao Dashboard:👉 
+### 🔗 Link de acesso ao Dashboard:👉 [/Dash.pbix](https://raw.githubusercontent.com/wellintonheitor/Business-Case---GameStreamers/main/BI%20-%20GameStreamers.pbix)
 
 ## 📑 4. Planilha Online – Listagem de Issues
 
@@ -91,7 +91,7 @@ Planilha base utilizada como fonte de dados do projeto, contendo a listagem comp
 
 - Impacto Financeiro, entre outros
 
-### 🔗 Link de acesso à planilha online: 👉 
+### 🔗 Link de acesso à planilha online: 👉 https://docs.google.com/spreadsheets/d/1hEzOpTYUo8Z9Pm-PZW91O8j3dg2o8EuztSMDq2_AGRM/edit?usp=sharing
 
 ## 🛠️ Tecnologias Utilizadas
 

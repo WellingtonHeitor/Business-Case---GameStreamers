@@ -91,7 +91,7 @@ Planilha base utilizada como fonte de dados do projeto, contendo a listagem comp
 
 - Impacto Financeiro, entre outros
 
-### 🔗 Link de acesso à planilha online: 👉 https://docs.google.com/spreadsheets/d/1hEzOpTYUo8Z9Pm-PZW91O8j3dg2o8EuztSMDq2_AGRM/edit?usp=sharing
+### 🔗 Link de acesso à planilha online: 👉 [/Google.Docs](https://docs.google.com/spreadsheets/d/1hEzOpTYUo8Z9Pm-PZW91O8j3dg2o8EuztSMDq2_AGRM/edit?usp=sharing)
 
 ## 🛠️ Tecnologias Utilizadas
 

@@ -39,7 +39,7 @@ Documento que descreve:
 
 - Visão geral das informações disponibilizadas ao time de Atendimento ao Cliente
 
-### 📂 Caminho: 
+### 📂 Caminho: https://github.com/wellintonheitor/Business-Case---GameStreamers/blob/main/Relat%C3%B3rio%20de%20Consultoria%20em%20Product%20Operations.pdf
 
 ## 📘 2. Documentação Técnica do Dashboard
 
@@ -55,7 +55,7 @@ Documento técnico com foco em analistas e stakeholders técnicos, contendo:
 
 - Detalhamento do impacto financeiro ponderado
 
-### 📂 Caminho: /docs/Documentacao_Tecnica_Dashboard.pdf
+### 📂 Caminho: [/Documentação Dash.pdf](https://github.com/wellintonheitor/Business-Case---GameStreamers/blob/main/Documenta%C3%A7%C3%A3o%20Dash.pdf)
 
 Este documento também está referenciado diretamente na aba Instruções do dashboard.
 

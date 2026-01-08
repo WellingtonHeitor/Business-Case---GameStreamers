@@ -128,4 +128,5 @@ Este repositório foi estruturado para servir como:
 ## ✍️ Autor
 
 Wellington Heitor
+
 Projeto desenvolvido com foco em clareza, organização e comunicação orientada a dados.
